@@ -38,9 +38,7 @@ A full-stack application built with **React (frontend)** and **ASP.NET Core Web 
 git clone https://github.com/parasbhateja/login_register_react_app.git
 cd login_register_react_app
 
-### Open Terminal in the project directory and navigate to the backend folder
-cd backend
-npm start ```To run the backend server this commmand will start the ASP.NET Core Web API server on `http://localhost:3000`.
+The command npm start will be used to run the application on http://localhost:3000/
 
 To run locally on your web browser, you can add project folder in Visual Studio.
 
