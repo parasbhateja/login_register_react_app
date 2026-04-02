@@ -42,6 +42,8 @@ cd login_register_react_app
 cd backend
 npm start ```To run the backend server this commmand will start the ASP.NET Core Web API server on `http://localhost:3000`.
 
-To run locally on your web browser, you can run on Visual Studio.
-The project will open at
+To run locally on your web browser, you can add project folder in Visual Studio.
+
+Then you can run the project. The following URL you have to enter in the browser URl
 https://localhost:5001/swagger
+
